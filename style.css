@@ -115,7 +115,7 @@ body {
   bottom: -35px;
   right: 0;
   border-radius: 50%;
-  background-image: url(../assets/images/icon-arrow.svg);
+  background-image: url(/assets/images/arrow.svg);
   background-repeat: no-repeat;
   background-size: 50%;
   display: flex;
