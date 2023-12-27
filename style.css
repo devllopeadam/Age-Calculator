@@ -154,6 +154,13 @@ body {
   caret-color: #7765a6;
 }
 
+@media (max-width:576px) {
+  .box .inputs .state-div input {
+    padding: 10px;
+    font-size: 23px;
+  }
+}
+
 .box .inputs .state-div input:hover {
   border-color: #7765a6;
 }
